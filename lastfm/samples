@@ -1,0 +1,75 @@
+#  Last FM Sample Data
+
+"""
+{
+  'recenttracks': 
+  {
+    'track': 
+      [
+        {
+          'url': 'http://www.last.fm/music/Glenn+Miller/_/The+Jumpin%27+Jive+(Glenn+Miller)', 
+          'album': 
+          {
+            'mbid': '', 
+            '#text': "Jumpin' Swing & Jive"
+          }, 
+          'artist': 
+          {
+            'mbid': '7b353d3c-2bd9-40e3-a21d-b7da3f941339', 
+            '#text': 'Glenn Miller'
+          }, 
+          'streamable': '0', 
+          'image': 
+          [
+            {
+              'size': 'small', 
+              '#text': ''
+            }, 
+            {
+              'size': 'medium', 
+              '#text': ''
+            }, 
+            {'size': 'large', '#text': ''}, {'size': 'extralarge', '#text': ''}
+          ], 
+          'mbid': '', 
+          'name': "The Jumpin' Jive (Glenn Miller)", 
+          'date': {'uts': '1454961529', '#text': '08 Feb 2016, 19:58'}
+        }
+      ], 
+    '@attr': {'page': '1', 'user': 'USERHERE', 'perPage': '1', 'total': '9783', 'totalPages': '9783'}
+  }
+}
+
+{
+  u'recenttracks': 
+  {
+    u'track': 
+    [
+      {
+        u'album': 
+        {
+          u'mbid': u'cdba0171-3cbb-4878-afd7-b0827478c9be', 
+          u'#text': u'Greatest Hits: From the Beginning'
+        }, 
+        u'streamable': u'0', 
+        u'name': u"Here's a Quarter (Call Someone Who Cares)", 
+        u'artist': 
+        {
+          u'mbid': u'615caab0-9cc2-4c24-9667-f46894be726e', 
+          u'#text': u'Travis Tritt'
+        }, 
+        u'url': u'http://www.last.fm/music/Travis+Tritt/_/Here%27s+a+Quarter+(Call+Someone+Who+Cares)', 
+        u'image': 
+        [
+          {u'#text': u'http://img2-ak.lst.fm/i/u/34s/1e8d5a8154224cf982cc3506c1904a85.png', u'size': u'small'}, 
+          {u'#text': u'http://img2-ak.lst.fm/i/u/64s/1e8d5a8154224cf982cc3506c1904a85.png', u'size': u'medium'}, 
+          {u'#text': u'http://img2-ak.lst.fm/i/u/174s/1e8d5a8154224cf982cc3506c1904a85.png', u'size': u'large'}, 
+          {u'#text': u'http://img2-ak.lst.fm/i/u/300x300/1e8d5a8154224cf982cc3506c1904a85.png', u'size': u'extralarge'}
+        ], 
+        u'mbid': u'e17b742b-05bb-4af2-b6da-3744c613f385', 
+        u'date': {u'uts': u'1454975655', u'#text': u'08 Feb 2016, 23:54'}
+      }
+    ], 
+    u'@attr': {u'totalPages': u'9797', u'total': u'9797', u'perPage': u'1', u'user': u'USERHERE', u'page': u'1'}}}
+
+"""
