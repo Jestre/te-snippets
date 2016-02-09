@@ -1,0 +1,2 @@
+# te-snippets
+TextExpander Snippets
